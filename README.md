@@ -1,1 +1,1 @@
-# Infinity-Books-BookMate-
+# Infinity Books (BookMate)
